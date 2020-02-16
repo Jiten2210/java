@@ -2,13 +2,12 @@ package code;
 
 public class BinaryRepresentation {
 	public static void main(String[] args) {
-		int a = 33;
+		int a = 0;
 		BinaryRepresentation b = new BinaryRepresentation();
 		System.out.println("Number in binary is : " + b.getBinary(a));
 	}
 
 	String s = "";
-
 	private String getBinary(int num) {
 		if (num == 0)
 			return s;
