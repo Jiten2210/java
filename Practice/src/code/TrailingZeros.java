@@ -3,7 +3,7 @@ public class TrailingZeros
 {
 	public static void main(String[] args)
 	{
-		int n=100;
+		int n=10;
 		int count=0;
 		for(int i=1;((int)Math.pow(5,i))<=n;i++)
 		{

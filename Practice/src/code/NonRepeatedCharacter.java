@@ -24,7 +24,7 @@ class NonRepeatedCharacter {
 	}
 
 	public static void main(String[] args) {
-		String str = "Yayyyy";
+		String str = "Yyyyyy";
 		int index = firstNonRepeating(str.toLowerCase());
 
 		System.out.println(index == -1 ? "Either all characters are repeating or string " + "is empty"
