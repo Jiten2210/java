@@ -15,7 +15,7 @@ public class LocalDate1 {
         LocalDate yesterday = tomorrow.minusDays(2);
         System.out.println(today + " " + tomorrow + " " + yesterday);
 
-        LocalDate independenceDay = LocalDate.of(2020, Month.AUGUST, 8);
+        LocalDate independenceDay = LocalDate.of(2020, Month.AUGUST, 15);
         DayOfWeek day = independenceDay.getDayOfWeek();
         System.out.println(day);
 
