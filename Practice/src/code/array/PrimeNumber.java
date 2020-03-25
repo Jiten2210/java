@@ -1,4 +1,4 @@
-package code.java8.stream;
+package code.array;
 
 import java.util.List;
 import java.util.function.IntPredicate;
