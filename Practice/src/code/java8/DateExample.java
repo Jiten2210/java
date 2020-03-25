@@ -1,4 +1,4 @@
-package code.java8.time;
+package code.java8;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;
@@ -7,7 +7,7 @@ import java.time.Month;
 import java.time.format.DateTimeFormatter;
 import java.time.temporal.ChronoUnit;
 
-public class LocalDate1 {
+public class DateExample {
 
     public static void main(String[] args) {
         LocalDate today = LocalDate.now();
