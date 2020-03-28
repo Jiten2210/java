@@ -1,4 +1,4 @@
-package code.array.leet_code.easy;
+package code.easy;
 
 import java.util.HashMap;
 import java.util.Stack;
@@ -6,7 +6,7 @@ import java.util.Stack;
 public class ValidParenthesis {
 
     public static void main(String[] args) {
-        System.out.println(isValid("([{]})"));
+        System.out.println(isValid("([{}])"));
     }
 
     public static boolean isValid(String str) {
