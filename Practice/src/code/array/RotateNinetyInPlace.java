@@ -1,7 +1,9 @@
 package code.array;
+
 public final class RotateNinetyInPlace {
 
-    private RotateNinetyInPlace() {}
+    private RotateNinetyInPlace() {
+    }
 
     private static void transpose(int[][] m) {
 
@@ -20,11 +22,11 @@ public final class RotateNinetyInPlace {
         transpose(m);
 
         //  swap rows
-        for (int  i = 0; i < m.length/2; i++) {
+        for (int i = 0; i < m.length / 2; i++) {
             for (int j = 0; j < m[0].length; j++) {
                 int x = m[i][j];
-                m[i][j] = m[m.length -1 -i][j]; 
-                m[m.length -1 -i][j] = x;
+                m[i][j] = m[m.length - 1 - i][j];
+                m[m.length - 1 - i][j] = x;
             }
         }
     }
@@ -35,11 +37,11 @@ public final class RotateNinetyInPlace {
         transpose(m);
 
         // swap columns
-        for (int  j = 0; j < m[0].length/2; j++) {
+        for (int j = 0; j < m[0].length / 2; j++) {
             for (int i = 0; i < m.length; i++) {
                 int x = m[i][j];
-                m[i][j] = m[i][m[0].length -1 -j]; 
-                m[i][m[0].length -1 -j] = x;
+                m[i][j] = m[i][m[0].length - 1 - j];
+                m[i][m[0].length - 1 - j] = x;
             }
         }
     }
@@ -47,7 +49,7 @@ public final class RotateNinetyInPlace {
 
     public static void main(String[] args) {
         int[][] mEven = {{1, 3},
-                        {2, 4}};
+                {2, 4}};
 
         rotateByNinetyToLeft(mEven);
 
@@ -72,8 +74,8 @@ public final class RotateNinetyInPlace {
         System.out.println("---------------------------------");
 
         int[][] mOdd = {{1, 2, 3},
-                        {4, 5, 6},
-                        {7, 8, 9}};
+                {4, 5, 6},
+                {7, 8, 9}};
 
         rotateByNinetyToLeft(mOdd);
 

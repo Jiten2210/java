@@ -2,7 +2,7 @@ package code.array;
 
 import java.util.HashMap;
 
-public class PairsSum {
+public class PairSum {
     public static void main(String[] args) {
         int[] arr = {3, 5, 2, 6, 1, 7, 9, 12, 4, 8, 0};
         int num = 5;

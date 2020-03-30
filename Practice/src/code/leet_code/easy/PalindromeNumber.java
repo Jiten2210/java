@@ -1,4 +1,4 @@
-package code.easy;
+package code.leet_code.easy;
 
 public class PalindromeNumber {
 

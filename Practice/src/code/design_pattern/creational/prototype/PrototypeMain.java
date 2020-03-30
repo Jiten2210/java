@@ -1,4 +1,4 @@
-package code.design_pattern.creational.Prototype;
+package code.design_pattern.creational.prototype;
 
 import java.util.List;
 
