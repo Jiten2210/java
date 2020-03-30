@@ -1,4 +1,5 @@
 package code.design_pattern.creational.AbstractFactory;
 
-public class ComputerAbstractFactory {
+public interface ComputerAbstractFactory {
+    public Computer createComputer();
 }
