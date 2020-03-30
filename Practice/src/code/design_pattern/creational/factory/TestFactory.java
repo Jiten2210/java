@@ -1,4 +1,4 @@
-package code.design_pattern.creational.Factory;
+package code.design_pattern.creational.factory;
 
 public class TestFactory {
     public static void main(String[] args) {

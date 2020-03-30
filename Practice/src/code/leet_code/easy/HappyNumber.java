@@ -1,4 +1,4 @@
-package code.easy;
+package code.leet_code.easy;
 
 import java.util.HashSet;
 import java.util.Set;

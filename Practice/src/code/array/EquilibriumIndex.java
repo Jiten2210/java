@@ -15,8 +15,6 @@ public class EquilibriumIndex {
                 System.out.println("Equilibrium index : " + i + " element is : " + arr[i]);
                 break;
             }
-
-
         }
 
     }

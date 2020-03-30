@@ -1,4 +1,5 @@
 package code.array;
+
 public class PrimeSieve {
     public static void main(String[] args) {
         int N = 95;
@@ -7,10 +8,10 @@ public class PrimeSieve {
         for (int i = 2; i <= N; i++) {
             isPrime[i] = true;
         }
-        for (int i = 2; i*i <= N; i++) {
+        for (int i = 2; i * i <= N; i++) {
             if (isPrime[i]) {
-                for (int j = i; i*j <= N; j++) {
-                    isPrime[i*j] = false;
+                for (int j = i; i * j <= N; j++) {
+                    isPrime[i * j] = false;
                 }
             }
         }
