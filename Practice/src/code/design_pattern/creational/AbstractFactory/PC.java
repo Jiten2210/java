@@ -1,4 +1,4 @@
-package code.design_pattern.creational.Factory;
+package code.design_pattern.creational.AbstractFactory;
 
 public class PC extends Computer {
 

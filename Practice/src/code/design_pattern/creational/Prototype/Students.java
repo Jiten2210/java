@@ -17,7 +17,7 @@ public class Students implements Cloneable {
     }
 
     public void addStudents() {
-        //read students data from database and put into list
+        // Read students data from database and put into list
         studentsList.add("Jitu");
         studentsList.add("Tanu");
         studentsList.add("Pooja");
@@ -29,7 +29,7 @@ public class Students implements Cloneable {
         return studentsList;
     }
 
-    //to provide a deep copy of the students list.
+    // To provide a deep copy of students list.
     @Override
     public Object clone() throws CloneNotSupportedException {
         List<String> studentsListTemp = new ArrayList<String>();
