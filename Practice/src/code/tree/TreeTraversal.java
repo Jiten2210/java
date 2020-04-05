@@ -22,11 +22,11 @@ public class TreeTraversal {
         tree.root.left.right = new Node(5);
         tree.root.right.left = new Node(6);
         tree.root.right.right = new Node(7);
-        System.out.println("--- In Order----");
+        System.out.println("===== In Order ====");
         tree.printInOrder();
-        System.out.println("--- Pre Order----");
+        System.out.println("==== Pre Order ====");
         tree.printPreOrder();
-        System.out.println("--- Post Order----");
+        System.out.println("==== Post Order ====");
         tree.printPostOrder();
     }
 
