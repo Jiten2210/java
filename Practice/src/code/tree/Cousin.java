@@ -3,6 +3,16 @@ package code.tree;
 public class Cousin {
 	Node root;
 
+	static class Node {
+		int data;
+		Node left, right;
+
+		Node(int d) {
+			data = d;
+			left = right = null;
+		}
+	}
+
 	public static void main(String[] args) {
 		Cousin tree = new Cousin();
 		tree.root = new Node(1);
