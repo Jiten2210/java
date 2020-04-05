@@ -16,7 +16,6 @@ public class LevelOrderTraversal {
         }
     }
 
-
     public static void main(String[] args) {
         LevelOrderTraversal tree = new LevelOrderTraversal();
         tree.root = new Node(1);
@@ -25,6 +24,7 @@ public class LevelOrderTraversal {
         tree.root.left.left = new Node(14);
         tree.root.left.right = new Node(25);
         printLevelOrder(tree.root);
+        levelOrderTraversal(tree.root);
     }
 
     private static void levelOrderTraversal(Node root) {
@@ -52,7 +52,7 @@ public class LevelOrderTraversal {
 
     private static void printLevelOrder(Node root) {
         int h = height(root);
-        System.out.println("height " + " " + h);
+        System.out.println("Height of Tree is " + " " + h);
         for (int i = 0; i <= h; i++)
             printLevel(root, i);
     }
