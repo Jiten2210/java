@@ -1,3 +1,5 @@
+package code.bits_manipulation;
+
 public class AddOne
 {
 	public static void main(String[] args)
