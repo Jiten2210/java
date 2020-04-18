@@ -8,11 +8,15 @@ class StringRotation {
     public static void main(String[] args) {
         String str1 = "AACD";
         String str2 = "ACDA";
+        System.out.println(areRotations(str1, str2) + " ==== " + isRotation(str1, str2));
+    }
 
-        if (areRotations(str1, str2))
-            System.out.println("Strings are rotations of each other");
-        else
-            System.out.printf("Strings are not rotations of each other");
+    public static boolean isRotation(String s1, String s2) {
+        if (s1.length() != s2.length()) {
+            return false;
+        }
+        String doubledString = s1 + s1;
+        return doubledString.contains(s2);
     }
 }
 
