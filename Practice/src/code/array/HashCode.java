@@ -34,3 +34,4 @@ public class HashCode{
         System.out.println("Checking equality: " + obj1.equals(obj2));
     }
 }
+
