@@ -3,7 +3,7 @@ package code.array;
 public class MaxOccurence {
     static final int ASCII_SIZE = 256;
 
-    static char getMaxOccuringChar(String str) {
+    static char getMaxOccuringCharacter(String str) {
 
         int count[] = new int[ASCII_SIZE];
         int len = str.length();
@@ -24,7 +24,7 @@ public class MaxOccurence {
 
     public static void main(String[] args) {
         String str = "Jitendra Singh Bisht";
-        System.out.println("Max occurring character is " + getMaxOccuringChar(str));
+        System.out.println("Max occurring character is " + getMaxOccuringCharacter(str));
     }
 
 }

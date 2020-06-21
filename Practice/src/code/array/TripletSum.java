@@ -5,7 +5,7 @@ import java.util.HashSet;
 
 public class TripletSum {
     public static void main(String[] args) {
-        int a[] = {1, 4, 45, 6, 10, 8};
+        int a[] = {1, 4, 45, 6, 10, 8, 19};
         int n = a.length;
         findThreeSum(a, n, 24);
         findTripletSum(a, n, 24);
