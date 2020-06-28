@@ -4,7 +4,6 @@ public class SubArray {
 
     static boolean isSubArray(int a[], int b[], int n, int m) {
         int i = 0, j = 0;
-        int counter = 0;
         while (i < n && j < m) {
             if (a[i] == b[j]) {
                 i++;
