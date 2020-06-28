@@ -37,9 +37,7 @@ public class MorseDecoder {
                     StringBuilder s = new StringBuilder(input);
                     s.setCharAt(i,'-');
                     decode(morseTree, s.toString());
-
                 }
-
             }
         } else
             decode(morseTree, input.toString());
@@ -55,7 +53,6 @@ public class MorseDecoder {
     }
 
     private static void decode(MorseTree<String> morseTree, String input) {
-        System.out.println("+++ " + input);
         ArrayList<String> decodedLine = new ArrayList<String>();
         String decodedCharacter = morseTree.decode(input);
         decodedLine.add(decodedCharacter);
