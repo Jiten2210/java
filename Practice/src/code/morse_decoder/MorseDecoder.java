@@ -53,7 +53,6 @@ public class MorseDecoder {
     }
 
     private static void decode(MorseTree<String> morseTree, String input) {
-        System.out.println("+++ " + input);
         ArrayList<String> decodedLine = new ArrayList<String>();
         String decodedCharacter = morseTree.decode(input);
         decodedLine.add(decodedCharacter);
