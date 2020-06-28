@@ -37,9 +37,7 @@ public class MorseDecoder {
                     StringBuilder s = new StringBuilder(input);
                     s.setCharAt(i,'-');
                     decode(morseTree, s.toString());
-
                 }
-
             }
         } else
             decode(morseTree, input.toString());
