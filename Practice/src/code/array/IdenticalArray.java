@@ -12,9 +12,9 @@ public class IdenticalArray {
             xor = xor ^ arr1[i];
         }
         if (xor == 0) {
-            System.out.println("arrays are same");
+            System.out.println("Identical Array");
         } else
-            System.out.println("arrays are different");
+            System.out.println("Different Array");
 
     }
 }

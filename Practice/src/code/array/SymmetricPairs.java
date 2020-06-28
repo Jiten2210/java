@@ -4,19 +4,19 @@ import java.util.HashMap;
 
 class SymmetricPairs {
 
-    static void findSymPairs(int arr[][]) {
-        HashMap<Integer, Integer> hM = new HashMap<Integer, Integer>();
+    static void findSymmetricPairs(int arr[][]) {
+        HashMap<Integer, Integer> hashMap = new HashMap<Integer, Integer>();
 
         for (int i = 0; i < arr.length; i++) {
             int first = arr[i][0];
             int sec = arr[i][1];
-            Integer val = hM.get(sec);
+            Integer val = hashMap.get(sec);
 
             if (val != null && val == first)
                 System.out.println("(" + sec + ", " + first + ")");
 
             else
-                hM.put(first, sec);
+                hashMap.put(first, sec);
         }
     }
 
@@ -32,6 +32,6 @@ class SymmetricPairs {
         arr[3][1] = 30;
         arr[4][0] = 10;
         arr[4][1] = 5;
-        findSymPairs(arr);
+        findSymmetricPairs(arr);
     }
 }

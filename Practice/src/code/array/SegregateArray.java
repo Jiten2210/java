@@ -3,10 +3,10 @@ package code.array;
 public class SegregateArray {
     public static void main(String[] args) {
         int a[] = {0, 1, 2, 2, 1, 0, 1, 0, 1, 0, 2, 1};
-        doSegregate(a);
+        segregateArray(a);
     }
 
-    private static void doSegregate(int[] a) {
+    private static void segregateArray(int[] a) {
         int i, cnt0 = 0, cnt1 = 0, cnt2 = 0;
         for (i = 0; i < a.length; i++) {
             switch (a[i]) {
@@ -22,9 +22,7 @@ public class SegregateArray {
             }
 
         }
-
         i = 0;
-
         while (cnt0 > 0) {
             a[i++] = 0;
             cnt0--;
@@ -37,8 +35,8 @@ public class SegregateArray {
             a[i++] = 2;
             cnt2--;
         }
-        for (i = 0; i < a.length; i++) {
-            System.out.println(a[i]);
+        for (int k : a) {
+            System.out.println(k);
         }
     }
 }
