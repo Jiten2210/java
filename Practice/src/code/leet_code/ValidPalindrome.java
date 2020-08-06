@@ -2,7 +2,7 @@ package code.leet_code;
 
 public class ValidPalindrome {
     public static void main(String[] args) {
-        String s = "A man, a plan, a canal: Panama";
+        String s = "";
         s = s.replaceAll("[^a-zA-Z0-9]", "").toLowerCase();
 
         System.out.println(isPalindrome(s) + " ===== " + isPalindrome1(s));
