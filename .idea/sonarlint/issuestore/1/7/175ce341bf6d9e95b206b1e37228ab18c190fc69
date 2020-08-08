@@ -1,0 +1,10 @@
+
+ksquid:S3008"ORename this field "SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÎ›‘ÿÿÿÿÿ
+Tsquid:S1197#"8Move the array designator from the variable to the type.(ÎÍµúÿÿÿÿ
+usquid:S2293%"YReplace the type specification in this constructor call with the diamond operator ("<>").(›¨É’üÿÿÿÿ
+T
+squid:S1061"9Replace this use of System.out or System.err by a logger.(¡’Œ·ÿÿÿÿÿ
+T
+squid:S1064"9Replace this use of System.out or System.err by a logger.(á™ûÿÿÿÿ
+O
+squid:S106:"9Replace this use of System.out or System.err by a logger.(åõÚã

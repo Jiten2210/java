@@ -1,0 +1,12 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ8‚î‡Ï”.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(•ÐÝÝþÿÿÿÿ8‚î‡Ï”.
+Xsquid:S2209"5Change this instance-reference to a static reference.(¶»ú¤ÿÿÿÿÿ8ÍÚ‰Ï”.
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ç‘›·þÿÿÿÿ8÷¯ˆÏ”.
+usquid:S001179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë°ƒøÿÿÿÿÿ8 ÉßÍ”.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(§ÿ¦¶8‚î‡Ï”.
+Ysquid:S2696;"6Make the enclosing method "static" or remove this set.(á¡öºøÿÿÿÿ8­ïáÍ”.

@@ -1,0 +1,48 @@
+
+[
+squid:S106$"9Replace this use of System.out or System.err by a logger.(»Ÿ¿îûÿÿÿÿ8“÷Æğ„.
+[
+squid:S106C"9Replace this use of System.out or System.err by a logger.(ÈŒŒúÿÿÿÿÿ8 Òâ°.
+[
+squid:S106@"9Replace this use of System.out or System.err by a logger.(ÈŒŒúÿÿÿÿÿ8 Òâ°.
+Zsquid:S3655L"7Call "Optional#isPresent()" before accessing the value.(“”£èøÿÿÿÿ8¢ƒÖÖ.
+[
+squid:S106I"9Replace this use of System.out or System.err by a logger.(ÚÑòûÿÿÿÿ8 Òâ°.
+Vsquid:S3878"8Remove this array creation and simply pass the elements.(òï×Ó8Ü©ê„.
+[
+squid:S106F"9Replace this use of System.out or System.err by a logger.(³ğ¸ûÿÿÿÿ8 Òâ°.
+Usquid:S3655@"2Call "out.isPresent()" before accessing the value.(ÈŒŒúÿÿÿÿÿ8ª¼é°.
+Isquid:S1612",Replace this lambda with a method reference.(“–«+8ı‰‘é„.
+[
+squid:S106V"9Replace this use of System.out or System.err by a logger.(×§Ë¢úÿÿÿÿ8Î¹èÖ.
+Zsquid:S3655I"7Call "Optional#isPresent()" before accessing the value.(ÚÑòûÿÿÿÿ8¢ƒÖÖ.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(›êŞÂúÿÿÿÿ8Êé„.
+[
+squid:S106L"9Replace this use of System.out or System.err by a logger.(“”£èøÿÿÿÿ8 Òâ°.
+[
+squid:S106_"9Replace this use of System.out or System.err by a logger.(€Š×òşÿÿÿÿ8·×ÇÖ.
+osquid:S42760"QRefactor this code to use the more specialised Functional Interface 'IntConsumer'(ìßÅ‡8Õäá°.
+Jsquid:S1612!",Replace this lambda with a method reference.(Æ¼”³8“÷Æğ„.
+V
+squid:S106+"9Replace this use of System.out or System.err by a logger.(ãÉŞü8Ø”Ìğ„.
+[
+squid:S106\"9Replace this use of System.out or System.err by a logger.(¨†–¿ıÿÿÿÿ8Ö†¹Ö.
+V
+squid:S106b"9Replace this use of System.out or System.err by a logger.(¹ÃÜ¨8ÏóòÖ.
+V
+squid:S1062"9Replace this use of System.out or System.err by a logger.(Øû£ê8Õäá°.
+[
+squid:S106R"9Replace this use of System.out or System.err by a logger.(…˜˜Âúÿÿÿÿ8£ôñí.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(û¸‹ûÿÿÿÿ8¢˜¬ê„.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ù›÷—ùÿÿÿÿ8®ßŠé„.
+V
+squid:S1061"9Replace this use of System.out or System.err by a logger.(…·ï¡8Õäá°.
+Usquid:S3655C"2Call "out.isPresent()" before accessing the value.(ÈŒŒúÿÿÿÿÿ8‘ûé°.
+Zsquid:S3655Y"7Call "Optional#isPresent()" before accessing the value.(şŞä‹øÿÿÿÿ8¿¸ĞÖ.
+[
+squid:S106:"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8Õäá°.
+[
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(şŞä‹øÿÿÿÿ8à”ĞÖ.

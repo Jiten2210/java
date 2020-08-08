@@ -1,0 +1,11 @@
+
+^squid:S00112*"FDefine and throw a dedicated exception instead of using a generic one.(ÚÒÆ
+csquid:S001123"FDefine and throw a dedicated exception instead of using a generic one.(—¿ùõùÿÿÿÿ
+?squid:S1148T"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+osquid:S3008"SRename this field "CAPACITY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÉØûÿÿÿÿ
+Tsquid:S1197D"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+Tsquid:S1854O"8Remove this useless assignment to local variable "node".(ıÄßÄüÿÿÿÿ
+csquid:S001127"FDefine and throw a dedicated exception instead of using a generic one.(Ğëò­ıÿÿÿÿ
+T
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(ëæ›¿úÿÿÿÿ
+^squid:S00112'"FDefine and throw a dedicated exception instead of using a generic one.(Êíş

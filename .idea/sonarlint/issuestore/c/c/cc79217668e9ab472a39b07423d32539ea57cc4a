@@ -1,0 +1,11 @@
+
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(äÚú
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(·óÚ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(·óÚ
+Osquid:S1197"8Move the array designator from the variable to the type.(´…®†
+Asquid:S1481
+"*Remove this unused "pivot" local variable.(Â’ï¶
+Psquid:S1854"9Remove this useless assignment to local variable "pivot".(ï ÛÎ
+Dsquid:S1481"(Remove this unused "low" local variable.(£°çüýÿÿÿÿ

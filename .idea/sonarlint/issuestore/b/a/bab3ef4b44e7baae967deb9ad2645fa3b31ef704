@@ -1,0 +1,19 @@
+
+^squid:S3973"GUse indentation to denote the code conditionally executed by this "if".(ŸüØÊ
+^squid:S3973"GUse indentation to denote the code conditionally executed by this "if".(ïåŽç
+_squid:S39733"HUse indentation to denote the code conditionally executed by this "for".(Áµ¡ƒ
+˜squid:S26815"|This line will not be executed in a loop; only the first line of this 2-line block will be. The rest will execute only once.(ªÓ¼áþÿÿÿÿ
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÛÛ¯ø
+;squid:S1659
+"Declare "j" on a separate line.(¦¢Éëùÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(¬µÖï
+usquid:S2293&"YReplace the type specification in this constructor call with the diamond operator ("<>").(öÔ²Ÿÿÿÿÿÿ
+usquid:S3012)"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(÷Ó‚»ùÿÿÿÿ
+T
+squid:S1064"9Replace this use of System.out or System.err by a logger.(–í˜Žúÿÿÿÿ
+T
+squid:S1065"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Œ±¦—ùÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Œ±¦—ùÿÿÿÿ
+asquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(˜Ì²
