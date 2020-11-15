@@ -1,32 +1,0 @@
-
-csquid:S1192"GDefine a constant instead of duplicating this literal "string" 5 times.(½Ýïçøÿÿÿÿ
-Usquid:S1854">Remove this useless assignment to local variable "ofNullable".(à‹Úá
-Rsquid:S1854"6Remove this useless assignment to local variable "of".(½Ýïçøÿÿÿÿ
-Usquid:S1854"9Remove this useless assignment to local variable "empty".(ÏúŠŽùÿÿÿÿ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÑåüÑýÿÿÿÿ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(¬ÜË™ýÿÿÿÿ
-O
-squid:S106!"9Replace this use of System.out or System.err by a logger.(·û¹À
-T
-squid:S106'"9Replace this use of System.out or System.err by a logger.(‚é€Þûÿÿÿÿ
-Ksquid:S2201,"/The return value of "orElseThrow" must be used.(ÞÿÎˆúÿÿÿÿ
-Vsquid:S18541":Remove this useless assignment to local variable "result".(¡þ·¾þÿÿÿÿ
-T
-squid:S1068"9Replace this use of System.out or System.err by a logger.(ú«á¿ÿÿÿÿÿ
-T
-squid:S106:"9Replace this use of System.out or System.err by a logger.(À–¤ªøÿÿÿÿ
-T
-squid:S106<"9Replace this use of System.out or System.err by a logger.( ”ØÔøÿÿÿÿ
-O
-squid:S106N"9Replace this use of System.out or System.err by a logger.(–ÝÅ
-msquid:S2068P"V'password' detected in this expression, review this potentially hard-coded credential.(ÓúóÈ
-T
-squid:S106T"9Replace this use of System.out or System.err by a logger.(—“äŒÿÿÿÿÿ
-T
-squid:S106Z"9Replace this use of System.out or System.err by a logger.(¬ Çöüÿÿÿÿ
-Fsquid:S1481"*Remove this unused "empty" local variable.(ÏúŠŽùÿÿÿÿ
-Csquid:S1481"'Remove this unused "of" local variable.(½Ýïçøÿÿÿÿ
-Fsquid:S1481"/Remove this unused "ofNullable" local variable.(à‹Úá
-Gsquid:S14811"+Remove this unused "result" local variable.(¡þ·¾þÿÿÿÿ

@@ -1,9 +1,0 @@
-
-[
-squid:S106'"9Replace this use of System.out or System.err by a logger.(ĞË÷ğøÿÿÿÿ8ˆÎû¿.
-[squid:S1197!"8Move the array designator from the variable to the type.(ôöòúÿÿÿÿ8€’é¿.
-usquid:S00117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôöòúÿÿÿÿ8€’é¿.
-|squid:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(—Œ‰€ûÿÿÿÿ8ˆÎû¿.
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(«éì¡8ì¾ö¿.
-Osquid:S1197"8Move the array designator from the variable to the type.(¤áÄ

@@ -5,16 +5,10 @@ public class ValidPalindrome {
         String s = "";
         s = s.replaceAll("[^a-zA-Z0-9]", "").toLowerCase();
 
-        System.out.println(isPalindrome(s) + " ===== " + isPalindrome1(s));
-    }
-
-    private static boolean isPalindrome1(String s) {
-        StringBuilder s1 = new StringBuilder(s);
-        return s1.reverse().toString().equalsIgnoreCase(s);
+        System.out.println(isPalindrome(s));
     }
 
     private static boolean isPalindrome(String s) {
-
         if (s == null || s.length() == 0) return false;
         for (int i = 0; i < s.length(); i++) {
             if (s.charAt(i) != s.charAt(s.length() - 1 - i)) {

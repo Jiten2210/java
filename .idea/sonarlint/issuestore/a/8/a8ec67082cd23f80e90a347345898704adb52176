@@ -1,12 +1,0 @@
-
-hsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äŸüN
-zsquid:S2234	"^Parameters to towerOfHanoi have the same names but not the same order as the method arguments.(ŒÂ¶©øÿÿÿÿ
-tsquid:S2234"^Parameters to towerOfHanoi have the same names but not the same order as the method arguments.(˜£õG
-hsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äŸüN
-hsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äŸüN
-Tsquid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(ŸğĞõùÿÿÿÿ
-N
-squid:S106
-"9Replace this use of System.out or System.err by a logger.(´½à

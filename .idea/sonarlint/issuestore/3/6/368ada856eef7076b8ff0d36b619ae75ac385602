@@ -1,11 +1,0 @@
-
-V
-squid:S106:"9Replace this use of System.out or System.err by a logger.(Ç¤Ã„8„ş‰Ğ.
-|squid:S2293;"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÆÎìœøÿÿÿÿ8„ş‰Ğ.
-V
-squid:S106>"9Replace this use of System.out or System.err by a logger.(¦ æ8„ş‰Ğ.
-Osquid:S16123",Replace this lambda with a method reference.(ÛÑ®•ùÿÿÿÿ8„ş‰Ğ.
-Osquid:S16023",Remove useless curly braces around statement(ÛÑ®•ùÿÿÿÿ8„ş‰Ğ.
-Dsquid:S1481"&Remove this unused "w" local variable.(• ÕÄ8´¶óÏ.
-Ssquid:S1854"5Remove this useless assignment to local variable "w".(• ÕÄ8´¶óÏ.
-|squid:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(øùğñıÿÿÿÿ8„ş‰Ğ.
