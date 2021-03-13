@@ -2,34 +2,25 @@ package code.array;
 
 import java.util.Arrays;
 
-class Isomorphic {
-    static int size = 256;
+class IsomorphicStrings {
+    static int size = 128;
 
     static boolean areIsomorphic(String str1, String str2) {
-        int m = str1.length();
-        int n = str2.length();
-
-        if (m != n)
-            return false;
-
-        Boolean[] marked = new Boolean[size];
-        Arrays.fill(marked, Boolean.FALSE);
-
-        int[] map = new int[size];
-        Arrays.fill(map, -1);
-
-        for (int i = 0; i < n; i++) {
-            if (map[str1.charAt(i)] == -1) {
-                if (marked[str2.charAt(i)] == true)
-                    return false;
-                marked[str2.charAt(i)] = true;
-                map[str1.charAt(i)] = str2.charAt(i);
-            } else if (map[str1.charAt(i)] != str2.charAt(i))
+        int a1[] = new int[size];
+        int a2[] = new int[size];
+        Arrays.fill(a1, -1);
+        Arrays.fill(a2, -1);
+        for (int i = 0; i < str1.length(); i++) {
+            char c1 = str1.charAt(i);
+            char c2 = str2.charAt(i);
+            if (a1[c1] != a2[c2])
                 return false;
+            a1[c1] = i;
+            a2[c2] = i;
         }
-
         return true;
     }
+
 
     public static void main(String[] args) {
         boolean res = areIsomorphic("aab", "xxy");

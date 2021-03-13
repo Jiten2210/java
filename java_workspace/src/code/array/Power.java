@@ -1,16 +1,18 @@
 package code.array;
 
 public class Power {
+
     public static void main(String[] args) {
-        String str = "jitu";
-        powerSet(str, 0);
+        int x = 4;
+        int y = 5;
+        System.out.println(power(x, y));
     }
 
-    public static void powerSet(String list, int count) {
-        System.out.println(list);
-        for (int i = count; i < list.length(); i++) {
-            String temp = list.substring(0, i);
-            powerSet(temp, i);
-        }
+    public static int power(int x, int y) {
+        if (y == 0)
+            return 1;
+        if (x == 0)
+            return 0;
+        return x * power(x, y - 1);
     }
 }

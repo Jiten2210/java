@@ -18,7 +18,7 @@ public class TripletSum {
             int right = n - 1;
             while (left < right) {
                 if (a[i] + a[left] + a[right] == sum) {
-                    System.out.println("\n Numbers are: " + a[i] + " " + a[left] + " " + a[right]);
+                    System.out.println("\nNumbers are: " + a[i] + " " + a[left] + " " + a[right]);
                     break;
                 } else if (a[i] + a[left] + a[right] < sum)
                     left++;
