@@ -4,7 +4,7 @@ import java.util.*;
 
 public class TopKFrequentNumbers {
     public static void main(String[] args) {
-        System.out.println(findTopKfrequentNumbers(new int[]{2, 13, 14, 11, 34, 12, 11, 13}, 2));
+        System.out.println(findTopKfrequentNumbers(new int[]{2, 13, 14, 11, 34, 12, 11, 13}, 3));
     }
 
     private static List<Integer> findTopKfrequentNumbers(int[] ints, int k) {
@@ -12,7 +12,7 @@ public class TopKFrequentNumbers {
         for (int n : ints) {
             hm.put(n, hm.getOrDefault(n, 0) + 1);
         }
-        PriorityQueue<Map.Entry<Integer, Integer>> minHeap = new PriorityQueue<Map.Entry<Integer, Integer>>((k1, k2) -> k1.getValue() - k2.getValue());
+        PriorityQueue<Map.Entry<Integer, Integer>> minHeap = new PriorityQueue<Map.Entry<Integer, Integer>>(Comparator.comparingInt(Map.Entry::getValue));
         for (Map.Entry<Integer, Integer> entry : hm.entrySet()) {
             minHeap.add(entry);
             if (minHeap.size() > k) {
@@ -24,6 +24,5 @@ public class TopKFrequentNumbers {
             numbers.add(minHeap.poll().getKey());
         }
         return numbers;
-
     }
 }

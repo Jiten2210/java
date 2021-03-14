@@ -1,6 +1,7 @@
 package code.array;
 
 import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.List;
 import java.util.PriorityQueue;
 
@@ -11,7 +12,7 @@ public class KLargestNumbers {
     }
 
     private static List<Integer> findKLargestNumbers(int[] nums, int k) {
-        PriorityQueue<Integer> minHeap = new PriorityQueue<>((num1, num2) -> num1 - num2);
+        PriorityQueue<Integer> minHeap = new PriorityQueue<>(Comparator.comparingInt(num -> num));
         for (int i = 0; i < k; i++) {
             minHeap.add(nums[i]);
         }
