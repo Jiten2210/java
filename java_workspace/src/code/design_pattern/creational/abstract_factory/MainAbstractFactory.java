@@ -1,6 +1,6 @@
 package code.design_pattern.creational.abstract_factory;
 
-public class TestAbstractFactory {
+public class MainAbstractFactory {
 
     public static void main(String[] args) {
         Computer pc = ComputerFactory.getComputer(new PCFactory("4 GB", "500 GB", "2.4 GHz"));

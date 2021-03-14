@@ -39,7 +39,7 @@ public class LinkedListReverse {
 
     private static Node reverse() {
         Node prev = null;
-        Node next = null;
+        Node next;
         Node current = head;
 
         while (current != null) {

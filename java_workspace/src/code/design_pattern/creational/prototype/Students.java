@@ -17,12 +17,11 @@ public class Students implements Cloneable {
     }
 
     public void addStudents() {
-        // Read students data from database and put into list
         studentsList.add("Jitu");
         studentsList.add("Tanu");
         studentsList.add("Pooja");
         studentsList.add("Sonu");
-        studentsList.add("Krishty");
+        studentsList.add("Vaidik");
     }
 
     public List<String> getStudentsList() {
