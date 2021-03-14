@@ -6,5 +6,6 @@ public class StringBackspace {
     }
 
     private static boolean compare(String s, String s1) {
+        return  true;
     }
 }
