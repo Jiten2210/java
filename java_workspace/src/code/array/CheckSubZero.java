@@ -17,7 +17,6 @@ class CheckSubZero {
     }
 
     public static void main(String args[]) {
-
         int[] arr = {6, 4, -7, 3, 12, 9};
         System.out.println(findSubZero(arr));
 
