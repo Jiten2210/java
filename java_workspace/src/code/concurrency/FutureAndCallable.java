@@ -9,7 +9,7 @@ public class FutureAndCallable {
         Callable<String> callable = () -> {
             System.out.println("Entered Callable");
             Thread.sleep(2000);
-            return "Hello from Callable";
+            return "Hello from Cal3.bn/ lable";
         };
 
         System.out.println("Submitting Callable");
