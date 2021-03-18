@@ -4,6 +4,7 @@ import java.util.concurrent.*;
 
 class FutureInterface {
     static ExecutorService threadPool = Executors.newFixedThreadPool(2);
+
     public static void main(String args[]) throws Exception {
         System.out.println("sum :" + findSum(10));
         threadPool.shutdown();
@@ -24,6 +25,4 @@ class FutureInterface {
         Future<Integer> f = threadPool.submit(sumTask);
         return f.get();
     }
-
-
 }

@@ -9,17 +9,12 @@ public class FutureAndCallable {
         Callable<String> callable = () -> {
             System.out.println("Entered Callable");
             Thread.sleep(2000);
-            return "Hello from Cal3.bn/ lable";
+            return "Hello from Callable";
         };
 
         System.out.println("Submitting Callable");
         Future<String> future = executorService.submit(callable);
-        // This line executes immediately
-        System.out.println("Do something else while callable is getting executed");
-
-        System.out.println("Retrieve the result of the future");
-        // Future.get() blocks until the result is available
-        String result = future.get();
+        String result = future.get(); // Future.get() blocks until the result is available
         System.out.println(result);
 
         executorService.shutdown();
