@@ -1,7 +1,10 @@
 package code.java8;
 
 import java.util.Arrays;
+import java.util.Collections;
+import java.util.Comparator;
 import java.util.List;
+import java.util.stream.Collectors;
 
 public class StreamSorting {
 
@@ -14,17 +17,17 @@ public class StreamSorting {
 
     public static void main(String[] args) {
 
-       /* List<User> sortedList = users.stream()
+         List<User> sortedList = users.stream()
 			.sorted((o1, o2) -> o1.getAge() - o2.getAge())
 			.collect(Collectors.toList());
 
-      /*  Collections.sort(users, Comparator.comparing(User::getAge));
-         users.forEach(System.out::println);*/
+        Collections.sort(users, Comparator.comparing(User::getAge));
+         users.forEach(System.out::println);
 
-        /*List<User> sortedList = users.stream()
+        List<User> list = users.stream()
                 .sorted(Comparator.comparingInt(User::getAge))
                 .collect(Collectors.toList());
-         sortedList.forEach(System.out::println);*/
+         list.forEach(System.out::println);
     }
 
     static class User {
