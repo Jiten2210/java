@@ -14,9 +14,7 @@ class FloodFill {
     public static void dfs(int[][] image, int x, int y, int color, int newColor) {
         if (x < 0 || x >= M || y < 0 || y >= N || image[x][y] != color)
             return;
-
         image[x][y] = newColor;
-
         dfs(image, x + 1, y, color, newColor);
         dfs(image, x - 1, y, color, newColor);
         dfs(image, x, y + 1, color, newColor);
