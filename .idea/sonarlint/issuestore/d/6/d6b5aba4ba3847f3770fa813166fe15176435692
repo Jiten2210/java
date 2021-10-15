@@ -1,9 +1,0 @@
-
-wsquid:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¾É‹•8Õªªçå.
-[squid:S1197"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ8Ò»Ìçå.
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(’ëðÊ8Õªªçå.
-Gsquid:S1125 ")Remove the literal "false" boolean value.(€†™‘8Õªªçå.
-[
-squid:S106!"9Replace this use of System.out or System.err by a logger.(­ŠÌ­ýÿÿÿÿ8Õªªçå.
-|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(À÷Þ„ýÿÿÿÿ8Õªªçå.

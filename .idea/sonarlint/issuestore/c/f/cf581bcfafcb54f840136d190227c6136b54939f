@@ -1,0 +1,48 @@
+
+T
+squid:S106C"9Replace this use of System.out or System.err by a logger.(ÈŒŒúÿÿÿÿÿ
+T
+squid:S106@"9Replace this use of System.out or System.err by a logger.(ÈŒŒúÿÿÿÿÿ
+T
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(şŞä‹øÿÿÿÿ
+Ssquid:S3655Y"7Call "Optional#isPresent()" before accessing the value.(şŞä‹øÿÿÿÿ
+Bsquid:S1612",Replace this lambda with a method reference.(“–«+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(›êŞÂúÿÿÿÿ
+T
+squid:S106\"9Replace this use of System.out or System.err by a logger.(¨†–¿ıÿÿÿÿ
+T
+squid:S106R"9Replace this use of System.out or System.err by a logger.(…˜˜Âúÿÿÿÿ
+Nsquid:S3655@"2Call "out.isPresent()" before accessing the value.(ÈŒŒúÿÿÿÿÿ
+O
+squid:S1062"9Replace this use of System.out or System.err by a logger.(Øû£ê
+T
+squid:S106V"9Replace this use of System.out or System.err by a logger.(×§Ë¢úÿÿÿÿ
+Nsquid:S3655C"2Call "out.isPresent()" before accessing the value.(ÈŒŒúÿÿÿÿÿ
+T
+squid:S106_"9Replace this use of System.out or System.err by a logger.(€Š×òşÿÿÿÿ
+O
+squid:S106b"9Replace this use of System.out or System.err by a logger.(¹ÃÜ¨
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ù›÷—ùÿÿÿÿ
+Osquid:S3878"8Remove this array creation and simply pass the elements.(òï×Ó
+T
+squid:S106I"9Replace this use of System.out or System.err by a logger.(ÚÑòûÿÿÿÿ
+O
+squid:S106+"9Replace this use of System.out or System.err by a logger.(ãÉŞü
+O
+squid:S1061"9Replace this use of System.out or System.err by a logger.(…·ï¡
+Ssquid:S3655I"7Call "Optional#isPresent()" before accessing the value.(ÚÑòûÿÿÿÿ
+hsquid:S42760"QRefactor this code to use the more specialised Functional Interface 'IntConsumer'(ìßÅ‡
+Ssquid:S3655L"7Call "Optional#isPresent()" before accessing the value.(“”£èøÿÿÿÿ
+T
+squid:S106$"9Replace this use of System.out or System.err by a logger.(»Ÿ¿îûÿÿÿÿ
+Csquid:S1612!",Replace this lambda with a method reference.(Æ¼”³
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(û¸‹ûÿÿÿÿ
+T
+squid:S106F"9Replace this use of System.out or System.err by a logger.(³ğ¸ûÿÿÿÿ
+T
+squid:S106:"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+T
+squid:S106L"9Replace this use of System.out or System.err by a logger.(“”£èøÿÿÿÿ

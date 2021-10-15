@@ -1,6 +1,0 @@
-
-Psquid:S4973"9Use the "equals" method if value comparison was intended.(›ú¶ë
-gsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(²Áßş
-T
-squid:S106	"9Replace this use of System.out or System.err by a logger.(ä—ÍĞúÿÿÿÿ
-psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÒÇœ

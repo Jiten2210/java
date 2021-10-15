@@ -1,0 +1,22 @@
+
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à±Ø­ùÿÿÿÿ
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¶†Ú
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅœŞûÿÿÿÿ
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅœŞûÿÿÿÿ
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹•
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹•
+@squid:S1659"$Declare "q_curr" on a separate line.(ÅœŞûÿÿÿÿ
+;squid:S1659"$Declare "q_next" on a separate line.(‹•
+O
+squid:S106+"9Replace this use of System.out or System.err by a logger.(ì ã
+T
+squid:S106."9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+Tsquid:S11971"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+T
+squid:S1068"9Replace this use of System.out or System.err by a logger.(š¹¬üøÿÿÿÿ
+T
+squid:S106A"9Replace this use of System.out or System.err by a logger.(Ë‘Äüÿÿÿÿ
+T
+squid:S106E"9Replace this use of System.out or System.err by a logger.(‹¬€æúÿÿÿÿ
+O
+squid:S106H"9Replace this use of System.out or System.err by a logger.(Ó—Ş÷

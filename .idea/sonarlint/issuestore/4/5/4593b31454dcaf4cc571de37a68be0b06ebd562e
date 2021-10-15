@@ -1,0 +1,5 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÛÐÒœ8´Ñ¹¸Ä/
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÄìè8èç¶¸Ä/
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Î÷›Ü8èç¶¸Ä/

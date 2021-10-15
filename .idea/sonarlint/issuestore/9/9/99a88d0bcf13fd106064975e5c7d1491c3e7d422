@@ -1,9 +1,0 @@
-
-3squid:S1643"Use a StringBuilder instead.(ŠÚ³Æ
-T
-squid:S106
-"9Replace this use of System.out or System.err by a logger.(Ñï‚±øÿÿÿÿ
-usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(çâîÀýÿÿÿÿ
-Csquid:S3599",Use another way to initialize this instance.(•ë˜¨
-psquid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(•ë˜¨
-Ksquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(Þü×Â

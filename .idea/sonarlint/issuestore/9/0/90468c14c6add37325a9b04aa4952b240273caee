@@ -1,11 +1,0 @@
-
-usquid:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ŒÎÈÇüÿÿÿÿ
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆîéêúÿÿÿÿ
-isquid:S00117
-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®û°®
-6squid:S1659
-"Declare "B" on a separate line.(®û°®
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆîéêúÿÿÿÿ
-isquid:S00117
-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®û°®
-psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ËëÝ—

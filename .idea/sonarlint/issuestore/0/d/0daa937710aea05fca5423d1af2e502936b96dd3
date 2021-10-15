@@ -1,16 +1,0 @@
-
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(¯ä˜ï8ê’…’ô.
-Vsquid:S1197"8Move the array designator from the variable to the type.(²÷îŠ8ê’…’ô.
-[squid:S1197"8Move the array designator from the variable to the type.(ø¸³àúÿÿÿÿ8ê’…’ô.
-Vsquid:S1197	"8Move the array designator from the variable to the type.(¬‘Ü†8ê’…’ô.
-Usquid:S1854	"7Remove this useless assignment to local variable "ar3".(¬‘Ü†8šßı.
-Usquid:S1854"7Remove this useless assignment to local variable "ar2".(²÷îŠ8šßı.
-Zsquid:S1854"7Remove this useless assignment to local variable "ar1".(ø¸³àúÿÿÿÿ8šßı.
-Tsquid:S1854"6Remove this useless assignment to local variable "ob".(…­ÏÜ8šßı.
-Esquid:S1481"'Remove this unused "ob" local variable.(…­ÏÜ8šßı.
-Ksquid:S1481"(Remove this unused "ar1" local variable.(ø¸³àúÿÿÿÿ8šßı.
-Fsquid:S1481"(Remove this unused "ar2" local variable.(²÷îŠ8šßı.
-Fsquid:S1481	"(Remove this unused "ar3" local variable.(¬‘Ü†8šßı.
-nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Š‰ØÔùÿÿÿÿ8šßı.
-nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ8šßı.

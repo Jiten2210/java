@@ -1,0 +1,6 @@
+
+dsquid:S2142&"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8öÅ¡ôƒ/
+Fsquid:S1148'"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8öÅ¡ôƒ/
+isquid:S2184%"FCast one of the operands of this multiplication operation to a "long".(Ùšöùúÿÿÿÿ8öÅ¡ôƒ/
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñÿÉÌøÿÿÿÿ8öÅ¡ôƒ/

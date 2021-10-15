@@ -1,0 +1,9 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(®ýáëûÿÿÿÿ
+T
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(§åãÅþÿÿÿÿ
+•%squid:RedundantThrowsDeclarationCheck"_Remove the redundant 'java.util.concurrent.ExecutionException' thrown exception declaration(s).(ÜÁ¬£ÿÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹’„æ

@@ -1,0 +1,54 @@
+
++squid:S1700"Rename field "queue"(í‘•ó
+>squid:S1659""Declare "rear" on a separate line.(¦½ªûÿÿÿÿÿ
+Bsquid:S1659"&Declare "capacity" on a separate line.(¦½ªûÿÿÿÿÿ
+Osquid:S1197"8Move the array designator from the variable to the type.(í‘•ó
+9squid:S3010""Remove this assignment of "front".(ªôâ
+8squid:S3010"!Remove this assignment of "rear".(ªôâ
+<squid:S3010	"%Remove this assignment of "capacity".(©ä„
+>squid:S3010
+""Remove this assignment of "queue".( ‹Šşÿÿÿÿ
+2squid:S3626"Remove this redundant jump.(ûÁİ…
+2squid:S3626"Remove this redundant jump.(ûÁİ…
+hsquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Ì ’Ê
+<squid:S3457"%String contains no format specifiers.(Ì ’Ê
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ì ’Ê
+2squid:S3626"Remove this redundant jump.(ûÁİ…
+2squid:S3626&"Remove this redundant jump.(ûÁİ…
+msquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ÖŠ‚¬ÿÿÿÿÿ
+Asquid:S3457"%String contains no format specifiers.(ÖŠ‚¬ÿÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÖŠ‚¬ÿÿÿÿÿ
+2squid:S36263"Remove this redundant jump.(ûÁİ…
+hsquid:S3457,"Q%n should be used in place of \n to produce the platform-specific line separator.(ÄÎ¾
+<squid:S3457,"%String contains no format specifiers.(ÄÎ¾
+O
+squid:S106,"9Replace this use of System.out or System.err by a logger.(ÄÎ¾
+N
+squid:S1061"9Replace this use of System.out or System.err by a logger.(Ü•İC
+2squid:S3626<"Remove this redundant jump.(ûÁİ…
+hsquid:S34578"Q%n should be used in place of \n to produce the platform-specific line separator.(ÄÎ¾
+<squid:S34578"%String contains no format specifiers.(ÄÎ¾
+O
+squid:S1068"9Replace this use of System.out or System.err by a logger.(ÄÎ¾
+msquid:S3457;"Q%n should be used in place of \n to produce the platform-specific line separator.(ÀÖ€øıÿÿÿÿ
+T
+squid:S106;"9Replace this use of System.out or System.err by a logger.(ÀÖ€øıÿÿÿÿ
+Asquid:S2440C"%Remove this instantiation of "Queue".(¿¥â¶ıÿÿÿÿ
+Lsquid:S2209D"5Change this instance-reference to a static reference.(¤¨™Ò
+Qsquid:S2209E"5Change this instance-reference to a static reference.(ç¶–×ûÿÿÿÿ
+Ksquid:S2209F"5Change this instance-reference to a static reference.(¬’Œi
+Qsquid:S2209G"5Change this instance-reference to a static reference.(˜¬ŠËÿÿÿÿÿ
+Lsquid:S2209H"5Change this instance-reference to a static reference.(ãÕÏÁ
+Lsquid:S2209J"5Change this instance-reference to a static reference.(¤¨™Ò
+Lsquid:S2209L"5Change this instance-reference to a static reference.(’öÓ—
+Lsquid:S2209N"5Change this instance-reference to a static reference.(¤¨™Ò
+Qsquid:S2209P"5Change this instance-reference to a static reference.(†Œ¨®ıÿÿÿÿ
+Qsquid:S2209Q"5Change this instance-reference to a static reference.(†Œ¨®ıÿÿÿÿ
+hsquid:S3457R"Q%n should be used in place of \n to produce the platform-specific line separator.(šÈİÊ
+<squid:S3457R"%String contains no format specifiers.(šÈİÊ
+O
+squid:S106R"9Replace this use of System.out or System.err by a logger.(šÈİÊ
+Lsquid:S2209T"5Change this instance-reference to a static reference.(¤¨™Ò
+Ksquid:S2209V"5Change this instance-reference to a static reference.(çÌÛ"

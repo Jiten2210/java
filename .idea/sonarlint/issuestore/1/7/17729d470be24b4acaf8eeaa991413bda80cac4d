@@ -1,7 +1,0 @@
-
-rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ΚΕυϊÿÿÿÿ8ΘΫ±Μι.
-wsquid:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(«Ο’8ΘΫ±Μι.
-9squid:S3626"Remove this redundant jump.(Ι©ƒ8ΘΫ±Μι.
-U
-squid:S106"9Replace this use of System.out or System.err by a logger.(η‰
-8ΘΫ±Μι.

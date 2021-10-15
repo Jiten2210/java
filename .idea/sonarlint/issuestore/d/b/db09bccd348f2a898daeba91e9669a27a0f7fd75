@@ -1,0 +1,7 @@
+
+esquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ùóç”8ÄÖ¸„/
+Esquid:S2440"(Remove this instantiation of "Callable".(ñ¹õI8ÄÖ¸„/
+¤%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ùóç”8ÄÖ¸„/
+V
+squid:S106	"9Replace this use of System.out or System.err by a logger.(¦°Ãú8ĞªÔ„/
+[squid:S1197"8Move the array designator from the variable to the type.(ùï¾ÿÿÿÿÿ8ĞªÔ„/
