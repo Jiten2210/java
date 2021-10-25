@@ -17,17 +17,18 @@ public class StreamSorting {
 
     public static void main(String[] args) {
 
-         List<User> sortedList = users.stream()
-			.sorted((o1, o2) -> o1.getAge() - o2.getAge())
-			.collect(Collectors.toList());
+        List<User> sortedList = users.stream()
+                .sorted((user1, user2) -> user1.getAge() - user2.getAge())
+                .collect(Collectors.toList());
+        sortedList.forEach(System.out::println);
 
         Collections.sort(users, Comparator.comparing(User::getAge));
-         users.forEach(System.out::println);
+        users.forEach(System.out::println);
 
         List<User> list = users.stream()
                 .sorted(Comparator.comparingInt(User::getAge))
                 .collect(Collectors.toList());
-         list.forEach(System.out::println);
+        list.forEach(System.out::println);
     }
 
     static class User {

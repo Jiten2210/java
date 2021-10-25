@@ -35,6 +35,7 @@ class Employee {
 
         hm.put(emp1, "One");
         hm.put(emp2, "Two");
+        System.out.println(emp1 == emp2);
 
         System.out.println("Both Objects are Equal: "+emp1.equals(emp2));
         System.out.println("Employee 1 Hashcode: "+emp1.hashCode());

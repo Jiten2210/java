@@ -4,8 +4,11 @@ import java.util.HashMap;
 
 public class PairSum {
     public static void main(String[] args) {
-        int[] arr = {3, 5, 2, 6, 1, 7, 9, 12, 4, 8, 0};
-        int num = 5;
+        String s1 = "hello";
+        s1 = s1.concat("john");
+        System.out.println(s1);
+        int[] arr = {2,3,11,2};
+        int num = 4;
         int count = 0;
         HashMap<Integer, Integer> hs = new HashMap<Integer, Integer>();
         for (int i = 0; i < arr.length; i++) {
