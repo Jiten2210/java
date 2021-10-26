@@ -3,17 +3,17 @@ package code.practice;
 import java.util.HashMap;
 import java.util.Map;
 
-public class SentenceSorting {
+public class SentenceSort {
     public static void main(String[] args) {
-        String s = "jitu1 tanu3 vaidik4 mummy5 papa2";
+        String s = "jitu3 tanu4 vaidik5 mummy2 papa1";
         System.out.println(sortSentence(s));
     }
 
     private static String sortSentence(String s) {
         Map<Integer, String> map = new HashMap<>();
         for (String str : s.split(" ")) {
-            int rank = str.charAt(str.length() - 1) - '0';
-            map.put(rank, str.substring(0, str.length() - 1));
+            int priority = str.charAt(str.length() - 1) - '0';
+            map.put(priority, str.substring(0, str.length() - 1));
         }
 
         StringBuilder sb = new StringBuilder();

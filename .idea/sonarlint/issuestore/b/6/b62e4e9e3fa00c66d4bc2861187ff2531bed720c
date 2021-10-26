@@ -1,0 +1,12 @@
+
+psquid:S1192"TDefine a constant instead of duplicating this literal "Product Development" 5 times.(ËÃıÿÿÿÿ
+psquid:S1192"TDefine a constant instead of duplicating this literal "Sales And Marketing" 3 times.(Œ¯º½şÿÿÿÿ
+fsquid:S1192"ODefine a constant instead of duplicating this literal "Infrastructure" 3 times.(èÜ…
+^squid:S1192"GDefine a constant instead of duplicating this literal "Female" 6 times.(µ¯ÂÜ
+csquid:S1854-"GRemove this useless assignment to local variable "highestPaidEmployee".(­ô§Ôÿÿÿÿÿ
+usquid:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(Îİ—äşÿÿÿÿ
+O
+squid:S106!"9Replace this use of System.out or System.err by a logger.(ı¤õÚ
+O
+squid:S106'"9Replace this use of System.out or System.err by a logger.(ÿ‰•Ÿ
+Tsquid:S1481-"8Remove this unused "highestPaidEmployee" local variable.(­ô§Ôÿÿÿÿÿ

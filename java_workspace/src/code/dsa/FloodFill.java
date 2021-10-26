@@ -1,4 +1,4 @@
-package code.practice;
+package code.dsa;
 
 class FloodFill {
 

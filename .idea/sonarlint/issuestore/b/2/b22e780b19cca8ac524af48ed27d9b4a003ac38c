@@ -1,0 +1,10 @@
+
+Nsquid:S1197 "8Move the array designator from the variable to the type.(ôü·'
+Tsquid:S1197!"8Move the array designator from the variable to the type.(Õƒ±žøÿÿÿÿ
+Osquid:S1197"8Move the array designator from the variable to the type.(ŸóÏì
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆó©Ï
+;squid:S1659"Declare "j" on a separate line.(á”æåþÿÿÿÿ
+Osquid:S1197"8Move the array designator from the variable to the type.(ŸóÏì
+:squid:S1659"#Declare "count" on a separate line.(ˆó©Ï
+O
+squid:S106#"9Replace this use of System.out or System.err by a logger.(®ô¤û
