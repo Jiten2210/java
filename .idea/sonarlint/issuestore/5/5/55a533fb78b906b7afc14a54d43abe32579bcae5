@@ -1,0 +1,8 @@
+
+dsquid:S2142+"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8÷¿¿´Ë/
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ê¯î£8÷¿¿´Ë/
+[squid:S1197"8Move the array designator from the variable to the type.(º ìıÿÿÿÿ8÷¿¿´Ë/
+V
+squid:S106("9Replace this use of System.out or System.err by a logger.(ÆÀûı8÷¿¿´Ë/
+Fsquid:S1148,"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8÷¿¿´Ë/

@@ -1,12 +1,12 @@
 
-isquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(è®ã¶øÿÿÿÿ8úñ‚Ã/
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ì’Ä¹ûÿÿÿÿ8úñ‚Ã/
 V
 squid:S106
 "9Replace this use of System.out or System.err by a logger.(™ƒËİ8úñ‚Ã/
+isquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(è®ã¶øÿÿÿÿ8úñ‚Ã/
 [
 squid:S106"9Replace this use of System.out or System.err by a logger.(éÅ÷ıÿÿÿÿ8úñ‚Ã/
+isquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(è®ã¶øÿÿÿÿ8úñ‚Ã/
 V
 squid:S106"9Replace this use of System.out or System.err by a logger.(ªß½8úñ‚Ã/
-isquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(è®ã¶øÿÿÿÿ8úñ‚Ã/
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ì’Ä¹ûÿÿÿÿ8úñ‚Ã/
