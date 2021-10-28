@@ -1,0 +1,9 @@
+
+Hsquid:S16121",Replace this lambda with a method reference.(ÛÑ®•ùÿÿÿÿ
+Lsquid:S1854"5Remove this useless assignment to local variable "w".(• ÕÄ
+usquid:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(øùðñýÿÿÿÿ
+Hsquid:S16021",Remove useless curly braces around statement(ÛÑ®•ùÿÿÿÿ
+usquid:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÆÎìœøÿÿÿÿ
+O
+squid:S106;"9Replace this use of System.out or System.err by a logger.(¦ Žæ
+=squid:S1481"&Remove this unused "w" local variable.(• ÕÄ
