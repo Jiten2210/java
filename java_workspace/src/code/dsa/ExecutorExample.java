@@ -1,4 +1,4 @@
-package code.practice;
+package code.dsa;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
